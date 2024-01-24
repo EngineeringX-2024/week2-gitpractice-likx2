@@ -4,4 +4,4 @@ Favorite name for our project team
 
 Arctic Phoenix (Ómar)
 
-Rime(Þorsteinn)
+Rimed (Þorsteinn)
