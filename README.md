@@ -9,3 +9,5 @@ Rimed (Þorsteinn)
 The air musketeers (Adela)
 
 Fireball (Helga)
+
+Quantum Management Ensemble (Svala)
